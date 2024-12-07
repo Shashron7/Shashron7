@@ -1,11 +1,9 @@
 # 👋 Hi there! I’m Shashwat Singh  
 
-**Passionate Developer | Tech Enthusiast | Lifelong Learner**
-
 Welcome to my corner of the tech universe! Here's what I bring to the table:
 
 ## 🌟 **About Me**
-- 🔧 Currently working as a **Software Developer** at Hewlett Packard Enterprise, focusing on systems engineering and solving complex challenges.
+- 🔧 Currently working as a **Software Developer** at Hewlett Packard Enterprise, focusing on systems and software engineering and solving complex challenges.
 - 📚 Constantly exploring new technologies and leveling up my skills
 ## 💻 **My Projects**
 - **[NLP-Based Problem Recommendation System](#):** An AI-driven tool for personalized problem recommendations.  
